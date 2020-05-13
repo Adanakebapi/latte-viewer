@@ -4,7 +4,7 @@ Example, you have two png files, and they have same image. But their size are di
 Latte files are programmer-friendly, because they works like lists and that makes it easier to edit it.  
 There is modules to edit image files, but it can be faster to create new image files.  
 Latte files work like that:  
-<width>,<pixel1red><pixel1green><pixel1blue><pixel2red><pixel2green><pixel2blue>...  
+\<width\>,\<pixel1red\>\<pixel1green\>\<pixel1blue\>\<pixel2red\>\<pixel2green\>\<pixel2blue\>...  
 Example:  
 3,!!!z!!zz!zzz!zz!!z!z!z!zzzz  
 3 is width of image.  
