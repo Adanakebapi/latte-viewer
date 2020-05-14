@@ -21,7 +21,7 @@ Latte dosyaları diğer resim dosyaları gibi çalışmazlar, liste gibi çalı�
 Örneğin, iki tane png dosyanız var ve aynı görüntüye sahipler. Ama boyutları farklılar. Çünkü PNG dosyaları boyutu küçültmek için bir sıkıştırma kullanırlar.  
 Latte dosyaları programcı dostudur, çünkü liste gibi çalışırlar ve bu düzenlemesini kolay kılar.  
 Resim dosyalarını düzenlemek için modüller var, ama yeni resim dosyaları oluşturmak daha kolaydır. Örneğin 10'a 10'luk koyu kırmızı bir resim.  
-Latte dosyaları bunun gibi çalışır: 
+Latte dosyaları bunun gibi çalışır:  
 \<genişlik\>,\<piksel1kırmızı\>\<piksel1yeşil\>\<piksel1mavi\>\<piksel2kırmızı\>\<piksel2yeşil\>\<piksel2mavi\>...  
 Örneğin:  
 3,!!!z!!zz!zzz!zz!!z!z!z!zzzz  
