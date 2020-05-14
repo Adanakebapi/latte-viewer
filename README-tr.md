@@ -26,7 +26,7 @@ Latte dosyaları bunun gibi çalışır:
 Örneğin:  
 3,!!!z!!zz!zzz!zz!!z!z!z!zzzz  
 Resmin genişliği 3'tür.  
-!'nin sayı değeri 33'tür.
+!'nin sayı değeri 33'tür.  
 z'nin sayı değeri 122'dir.  
   
 *RGB, Red Green Blue demektir. Yani, Kırmızı Yeşil Mavi. Türkçe'ye KYM olarak çevrilmiştir.*  
@@ -42,4 +42,4 @@ Piksel 8: z!z   KYM: 122,33,122       Renk: Eflatundan daha koyu ve soluk
 Piksel 9: zzz   KYM: 122,122,122      Renk: Gri 
 </pre>
 
-![Example Image](https://lh3.googleusercontent.com/NGkjNiwy70aEq_PMHj_rGsI7U6ogWzW9GQnEbwh9smmVT-zs1lKpUACiBGJLC9DH-aGQMWNVV1up2SFmz81a2NAI8um-zz_QCgsq6sB6ClU3gjZLcSZaKDl_Uy4FBsz7ji2vGkQDvGmey4jA0NKs0HSCjz1gl59g-0mqR2V6EOT_PoceWyDbAu-UKoed1pMz5dTFRdNcpZ1VA32LaHEdhIHbePdN165b7O8Q6n0xVRvBhqrwAYMM5GJlfQCLl73yrJtS_f7Kq1LxzcOShp2zZU63U3zr09oYHhaciC7sjapDS6w6cha9cYmLNcxv-L-X0MEWB2gpr8pgcHPcHePglbK9DAm0Ec6crfl1RwcJBeqidkCq0cFWF-3CNT0OHHDWk5AMMdK541Rdm8hERLa0b6A83aE9bSqE1ewh2aaZGX0-I-jfVYRllZAkPbB04-ovHAw16brtGmyVtWNSvY75lSb_PQ6NkJdV9MdR0F10GtRAUCM_b5kiwWkMg2vdL9UbNvMMUJ3JU4ZzAi1bzp5VhZIGVE-k536ev3ssdGWfI80eTUhtiinqryXq07XKozJi5DA5cGh9_FU0XZVlMu-C6rvWm1BreV_KqWOfu9xXQxSeEOMpMMgUI5BQz8DqsBLz3NG10TeOlRJcYb-PDWiQgnJpR5HfTRYGcD9_phvOW3iRN9ZCXTwzKtht9Udp7sIno_gRX1TIRX5BA4qCYm5qM0UbHBaAiXZl1fNr8ge-LkkPS4n13NgQbBM=w500-h400-no?authuser=0)
+![Example Image](https://lh3.googleusercontent.com/KMmXTNGaAznoUJjzbLVXE_7YcJWVzV0p6CEAXdDAMB34OKAl2SwRl_HgPoa4X0eONdue9AoCc99U-vMviq9o4V0JmzDhGCx8GyESHkAuedLgCIDMdVYO3KP75HoA2bGxqTPJV3PG8Zo9A2NRjW9fZ48LfUQ8YriGURVC4BKL6qtpF1Qpf-F7tY3EIZ1AnQSe2VEI09fc0FBEuj9SfwcD3o6vWhl3U-NF_0CDGWz4h65JLfjoDF-DcbK745GSMJJ0dUZy9r-HA5i7FQdEo6HlePVF0DDaggn4ztR3iOtZ8p9do0318yCsiKq1iL4eSIDdyVHG8KNFekDn_sN_RTlnLnFrESYfb37VNRIg4JSqwFJWJXV6CMv0eBUU1z7mtLBJHziOJ_rErU098BPDeJ-c7YEXRvovMIInb6Y5PgEqVzVwisbxoC85SBDahG6SmCzaHWl9-w1s6HvHeMBYGfiolM1v3ic7gxmywCQdYfbebUkGjmwQuFiVdm-ByT3HtyC7jUkWpWaVPSVarwaJhhW9O2O05ul57CuJVmbPC1-GcMxzbUXas6xCk9qAPniUbS9I96O8oTpoAsfHvCVPiDgIbfU0zktL0plr2ErSzng1XVI1Y-x2NF5r52EDXtlHG4E5RBoZSjDfABKQ2urC3w9pnBWkS_rr6Rr2FcqFNm0Wg9MTojNPHtivfpF1g1_REF-Jm6L02aj8DEJRwJCNy5PSQs3lJRGAKZereN4Z6rc2BcJuS3sH5D7JhxA=w500-h400-no?authuser=0)
