@@ -1,5 +1,7 @@
 ## Latte Viewer
 Latte Viewer is a program to convert latte files to png files or image files to latte files.  
+
+## Latte Files
 Latte files not work like other image files, they work like lists.  
 Example, you have two png files, and they have same image. But their size are different. Because PNG files uses a compression to make the size smaller.  
 Latte files are programmer-friendly, because they works like lists and that makes it easier to edit it.  
