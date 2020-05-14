@@ -2,7 +2,7 @@
 Latte Görüntüleyici, latte dosyalarını png dosyalarına ya da resim dosyalarını latte dosyalarına çevirmeyi sağlayan bir programdır.  
 JPG, JPEG ve PNG dosyalarını desteklemektedir.  
 Latte dosyalarını sadece png dosyalarına dönüştürebilirsiniz.  
-**NOT:** ASLA yarı-saydam dosyalar kullanmanızı ÖNERMİYORUM! Latte opaklık değerini desteklemiyor, programınız ÇÖKEBİLİR!  
+**NOT:** Yarı-saydam dosyalar kullanmanızı ASLA ÖNERMİYORUM! Latte opaklık değerini desteklemiyor, programınız ÇÖKEBİLİR!  
 
 Bir resim dosyasından latte dosyasına
 ![GUI_IMG1](https://lh3.googleusercontent.com/PHXBvDtEQ3nZaxl6tJsvxcPKMIq5S5eUXl_cAT2gyYeuHjrWzxXgo0OW2WZ1kgy3dJO-vV7nn9YYOPAxj_GqWbzYbs3Tza-KHvaITczVHP0R8fGVAqfbPgTcSYsn6YWdyRFt9ROjY0ajMRsxxKqcBxtSCiR-bWk23njyHrPf3j3oNFxbWYodZwu0g-ZD62ykaR1gh9x4qNRmGc4WqK1Vo_tz3Wp521_7GrQl-q4PGM75ML9trUiMDavsioj8kVjJuhV_D-bZujCIBrHAtHbcHYH9MSEBDhypvxc48SwICrSulGqu2tNX-UmV0-u15c1FV8wjB2QGovyib_M_RZam9lo0nKEpWB3KNMzRhq0IyIYAk-2nGgb0HDZyjakuGWgNRsl0SuXOeEP4rmAoP00EdugeRfFPthKxJkET0FmnLt0iSSi8eIFHaogNpmzLkNoSQ3vdSqn2Xz-w137MUpBH8lVhxGaXyM9-tAuiT0MviHZNZy3R0CszrQsJe92l-bO7WGdhdxgf3VBZqCEOQZblifuLKyyi659_kgGweQhzIO4U-bUox_6XBYiSRewFh-fZ13nwana3pGbBc0ebk6QV4wBHJ921PhTDfdYTXVP4a9jn_tMx1U-_fDIEU29z8A7xLz2LrfCYVQsXrKhhBxgxNpTu4-G4TpBd4dtIFUQ-BD-Pmugu4rkX6TwsuSSFp3eQKxILOLr-Atkx2dmXf-7dmv4OdLUzxXN2esm6ewwVFGOC0Q88MTnB9AU=w800-h524-no?authuser=0)  
