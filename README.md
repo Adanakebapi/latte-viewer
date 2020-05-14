@@ -19,7 +19,7 @@ The button at bottom of entry for browsing the file with explorer.
 ## Latte Files
 Latte files not work like other image files, they work like lists.  
 Example, you have two png files, and they have same image. But their size are different. Because PNG files uses a compression to make the size smaller.  
-Latte files are programmer-friendly, because they works like lists and that makes it easier to edit it.  
+Latte files are programmer-friendly, because they works like lists and that makes it easier to edit it. Example, an dark red image with 10x10 dimensions.  
 There is modules to edit image files, but it can be faster to create new image files.  
 Latte files work like that:  
 \<width\>,\<pixel1red\>\<pixel1green\>\<pixel1blue\>\<pixel2red\>\<pixel2green\>\<pixel2blue\>...  
