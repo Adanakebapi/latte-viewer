@@ -21,4 +21,4 @@ Pixel 7: !z!   RGB: 33,122,33        Color: Darker and Paler than Green
 Pixel 8: z!z   RGB: 122,33,122       Color: Darker and Paler than Magenta  
 Pixel 9: zzz   RGB: 122,122,122      Color: Gray  
 
-!(https://photos.google.com/album/AF1QipMx3xYsQPodX9afp4VP92EK6BxPhj-mU8LlCBpi/photo/AF1QipNrooPjl7aPi4MOw_21chb_UZb4NAN7yqypBGcH)
+![Example Image](https://photos.google.com/album/AF1QipMx3xYsQPodX9afp4VP92EK6BxPhj-mU8LlCBpi/photo/AF1QipNrooPjl7aPi4MOw_21chb_UZb4NAN7yqypBGcH)
