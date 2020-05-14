@@ -14,6 +14,7 @@ The listbox at top-left shows the .latte, .jpg, .jpeg and .png files in the same
 The entry at top-right of listbox for browsing the file with path.  
 The button at the right of the entry for browse the path.  
 The button at middle-right of GUI for saving the file as .png or .latte file.  
+The button at bottom of entry for browsing the file with explorer.
 
 ## Latte Files
 Latte files not work like other image files, they work like lists.  
