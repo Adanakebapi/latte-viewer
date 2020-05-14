@@ -1,7 +1,8 @@
 ## Latte Viewer
 Latte Viewer is a program to convert latte files to png files or image files to latte files.  
 It supports JPG, JPEG and PNG files.  
-You can convert latte files to only png format.  
+You can convert latte files to only png format. 
+**NOTE:** I'm NOT recommending using translucent files! Latte doesn't supports alpha value, your program can be CRASHED!
 
 An Image file to Latte format  
 ![GUI_IMG1](https://lh3.googleusercontent.com/RoDGd50htLfTVavXAtEQ-QeAPQdr80onrcFNGS1Fd3r2PJFEk9Qh3h9axXnaDiiiBOs4BdotzHelkf2-ouMX2LvuQuyjLq7RxhgnANY7JBPDXDVPNq4vz2EdNY51VjYzXNSEaztiwOpi2y61cC-D_xwFCCgwrlhfBBkgdNod586U_Ux-TSlSizcT2XUthTZfGUUXnHlYqyqigbcsXoWbbIBd2ubAi8RqsYbUKlo-hDpY4lMo_zH1whnFMU-F4pJJulSkSkfWUDVjc09-R5ijC2lMdhXZDTvsfQQPRcAcgyJW8DvFyPeZqwclDiHJI-uT42Nl-lv92UD4QCol3Ams1eyk0bPgmWH6b5pClZbgUSRooe2ysF2YB85SLHyAWHHKvGUwPMyZqRy0p7pzcNQ6TBht_kHQSa7nD1zO4BtCcnC8fiZOrgFWrQzeEypyfQIf5MQ9A_gHr6nTv49JOjRSo6PyOJ3QguveBR38XNIC_va-X99K11TbCKIEtmn57iilbnazuSC3bMswjVe9ddhpSFiLof8BWAtD6WqkZ-qXkhNoKPNk-BCJDVxTGhkW7HCFxLacbkGUVHE1t347tM6tqez3wYIt8zsBLlgS54-wIV0eGKiPzDTplkjAyEesvZ9Wf_sj1yqCq-O9K63RTfJQerXCx3CwpldPqX48F3n__3qmnawz_RTGlnVDFc5zhw=w800-h524-no?authuser=0)  
